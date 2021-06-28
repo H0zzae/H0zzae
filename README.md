@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=H0zzae&fontSize=50&fontColor=black&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=H0zzae&fontSize=50&fontColor=ffffff&fontAlign=70)
 
 - 👶 Junior Web Front-End developer
 - 🦉 Owl
