@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0zzae&layout=compact&theme=dracula)](https://github.com/h0zzae)</center>
+<div style="text-align:center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0zzae&layout=compact&theme=dracula)](https://github.com/h0zzae)</div>
 
 ### 🙋🏻‍♀️ Contact me
 
