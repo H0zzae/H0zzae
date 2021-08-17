@@ -39,5 +39,6 @@
     </a>
     
 </div>
-
-[![readmeplants](https://readmeplants.com/get?name=h0zzae&planet=yellowMoon&plant=rainbowTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants)
+<div align="center">
+[![readmeplants](https://readmeplants.com/get?name=h0zzae&planet=earth&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants)
+</div>
