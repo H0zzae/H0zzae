@@ -42,3 +42,4 @@
 
 [![readmeplants](https://readmeplants.com/get?name=h0zzae&planet=earth&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0zzae)](https://github.com/anuraghazra/github-readme-stats)
